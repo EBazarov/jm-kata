@@ -1,0 +1,7 @@
+{
+  "trained_model": "",
+  "max_n_gram": 2,
+  "texts": [""],
+  "output_file": "",
+  "use_top_candidate": 1
+}
