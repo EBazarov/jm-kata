@@ -6,13 +6,11 @@ In other words, you will train a model that will predict which is the most proba
 to follow a given $n$-gram. The approach presented here is similar to the predictive
 keyboards, such as those find in our mobile phones.
 
-$$\text{I work in a DS project for Jus}\left\{
-  \begin{aligned}
-    Mundi: 0.40 \\
-    AI: 0.35 \\
-    Connect: 0.25 \\
-  \end{aligned}
-\right.$$
+$$\text{I work in a DS project for Jus} \begin{cases}
+\text{Mundi}: 0.40 \\
+\text{AI}: 0.35 \\
+\text{Connect}: 0.25
+\end{cases}$$
 
 To do that, you will program a code for _training_ an $n$-gram language model, as well, as a code
 for reading this model and generating some text.
